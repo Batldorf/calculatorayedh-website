@@ -1,0 +1,41 @@
+.rectangle {
+    height: 700px;
+    width: 550px;
+    border-radius: 50px;
+    background-color:rgb(84, 89, 89);
+    margin-left: 450px;
+    margin-top: 80px;
+  }
+
+  .ecran {
+    width: 100%; 
+    margin-left: 0%;
+    height: 110px; 
+    background-color: #000; 
+    color: #0f0; 
+
+    font-size: 24px; 
+    text-align: right; 
+    padding: 20px;
+    box-sizing: border-box;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px; 
+}
+
+button{
+    height: 75px;
+    width: 150px;
+    border-radius: 30px;
+    margin: 8px;
+    margin-left: 3%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    border-width: 10px;
+    font-weight: bold;
+    font-size: large;
+    border-color: white;
+    color:rgb(116, 18, 18);
+
+}
+
+
